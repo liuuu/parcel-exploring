@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"/Users/next/Documents/december/exploring_parcel/variables.scss","includedInParent":true},{"name":"_css_loader"}],"generated":{"css":"body {\n  background: #2e2b2b; }\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      "},"hash":"daf59fefa11c5dc1bf34ff0853e5e1dc"}
